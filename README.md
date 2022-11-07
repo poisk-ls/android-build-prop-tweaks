@@ -11,10 +11,10 @@
 #
 ### Code‼️
 #
->1. Better RAM management
+>**1. Better RAM management**
 >ro.HOME_APP_ADJ=1
 #
->2. Improves audio and video recording quality
+>**2. Improves audio and video recording quality**
 >ro.media.enc.jpeg.quality=100
 >ro.media.dec.jpeg.memcap=8000000
 >ro.media.enc.hprof.vid.bps=8000000
@@ -24,7 +24,7 @@
 >ro.camcorder.videoModes=true
 >ro.media.enc.hprof.vid.fps=65
 #
->3. Better net speeds.
+>**3. Better net speeds**
 >net.tcp.buffersize.default=4096,87380,256960, 4096, 16384,256960
 >net.tcp.buffersize.wifi=4096,87380,256960,409 6,163 84,256960
 >net.tcp.buffersize.umts=4096,8 7380,256960,4096,163 84,256960
