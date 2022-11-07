@@ -10,6 +10,18 @@
 
 
 Code‼️
+1. Better RAM management
+- ro.HOME_APP_ADJ=1
+
+2. Improves audio and video recording quality
+- ro.media.enc.jpeg.quality=100
+- ro.media.dec.jpeg.memcap=8000000
+- ro.media.enc.hprof.vid.bps=8000000
+- ro.media.capture.maxres=8m
+- ro.media.panorama.defres=3264×1840
+- ro.media.panorama.frameres=1280×720
+- ro.camcorder.videoModes=true
+- ro.media.enc.hprof.vid.fps=65
 - 
 - 
 - 
