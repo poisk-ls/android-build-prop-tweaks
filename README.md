@@ -1,5 +1,7 @@
 # android-build-prop-tweaks
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&size=30&lines=☣️+android-build-;☣️+prop-tweaks+☣️)
+
 ### Best Build Prop Tweaks Codes
 >Below are the Build Prop Tweaks which will help you out to install best function on your devices such as fastest your booting speed, increase your internet speed and so much more.
 
